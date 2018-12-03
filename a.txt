@@ -1,8 +1,12 @@
 aaaaaaaaaaaaaaaaaaaaaaa
 
+<<<<<<< HEAD
 hello员工开始写代码：
 public class hello{
     public static void main(String[] args){
         System.out.print("Hello World");
+	hehehr
     }
 }
+
+
