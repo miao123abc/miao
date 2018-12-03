@@ -1,6 +1,12 @@
 aaaaaaaaaaaaaaaaaaaaaaa
-新员工修改了a文件
 
-第一行代码：public static void main(String[] args){
-    hehehr
+<<<<<<< HEAD
+hello员工开始写代码：
+public class hello{
+    public static void main(String[] args){
+        System.out.print("Hello World");
+	hehehr
+    }
 }
+
+
